@@ -1,0 +1,11 @@
+{
+  "wallpaper": "/home/radless/Documents/Wallpaper.png",
+  "pinned_apps": [
+    { "name": "firefox", "order": 0 },
+    { "name": "code", "order": 1 }
+  ],
+  "desktop_icons": [
+    { "entry": "trash.desktop", "x": 0, "y": 0 },
+    { "entry": "chrome.desktop", "x": 0, "y": 1 }
+  ]
+}
