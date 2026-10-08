@@ -1,5 +1,5 @@
 # modern-shell
-A complete Shell, which is GTK4 based and Wayfire targeted, written in Vala programming language.
+A uncomplete work-in-progress Shell, which is GTK4 based and Wayfire targeted, written in Vala programming language.
 ## Dependencies
 ### Arch Linux
 ```bash
